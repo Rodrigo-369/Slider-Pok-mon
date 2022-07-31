@@ -70,6 +70,7 @@ body {
     padding: 12px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     transition: opacity 0.3s ease-in-out;
+    opacity: 0;
 }
 
 .cartao.selecionado {
